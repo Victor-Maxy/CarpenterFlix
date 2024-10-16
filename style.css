@@ -40,17 +40,17 @@ section {
   
   
   
-  .{
+  .teste{
     display: flex;
     overflow-x: auto;
     gap: 10px;
   }
-  .MARíliAMENDONÇA img {
+  .teste img {
     opacity: 0.5;
     height: 200px
   }
   
-  .MARíliAMENDONÇA img:hover {
+  .teste img:hover {
     opacity: 1.0;
     border: 1px solid rgb(0, 0, 0);
   }
