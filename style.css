@@ -40,17 +40,17 @@ section {
   
   
   
-  .teste{
+  .Carpenterflix{
     display: flex;
     overflow-x: auto;
     gap: 10px;
   }
-  .teste img {
+  .Carpenterflix img {
     opacity: 0.5;
     height: 200px
   }
   
-  .teste img:hover {
+  .Carpenterflix img:hover {
     opacity: 1.0;
     border: 1px solid rgb(0, 0, 0);
   }
