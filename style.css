@@ -40,17 +40,17 @@ section {
   
   
   
-  {
+  .agora{
     display: flex;
     overflow-x: auto;
     gap: 10px;
   }
-  . img {
+  .agora img {
     opacity: 0.5;
     height: 200px
   }
   
-  . img:hover {
+  .agora img:hover {
     opacity: 1.0;
     border: 1px solid rgb(0, 0, 0);
   }
